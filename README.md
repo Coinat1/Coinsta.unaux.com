@@ -2,7 +2,7 @@
 
 Coinsta.unaux.com, for coinsta and people everywhere.
 
-![Coinsta](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Coinsta](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/30coin.png)
 
 ## What is this?
 It's the [Coinsta.unaux.com] homepage. Made so everyone, even the nontechnical, can use Coinsta.
