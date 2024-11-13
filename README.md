@@ -1,6 +1,6 @@
 # [Coinsta.unaux.com]
 
-Dogecoin.com, for shibes and people everywhere.
+Coinsta.unaux.com, for coinsta and people everywhere.
 
 ![Coinsta](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
