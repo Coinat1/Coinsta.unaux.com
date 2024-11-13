@@ -31,6 +31,6 @@ We created some guides just for you:
 [G1]: https://github.com/coinat1/coinsta.unaux.com/blob/gh-pages/getting-started/contribute_windows.md
 [G2]: https://github.com/coinat1/coinsta.unaux.com/blob/gh-pages/getting-started/contribute_linux.md
 [G3]: https://github.com/coinat1/coinsta.unaux.com/blob/gh-pages/getting-started/contribute_osx.md
-[G4]: https://github.com/coinat1/coinsta unaux.com/blob/gh-pages/getting-started/contribute_docker.md
+[G4]: https://github.com/coinat1/coinsta.unaux.com/blob/gh-pages/getting-started/contribute_docker.md
 
 [Coinsta.unaux.com]: https://coinsta.unaux.com/
